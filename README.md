@@ -1,5 +1,5 @@
 # SDK-Android
-Consumers of the Sensely Android SDK can leverage Sensely’s avatar, conversational platform, and Clinician’s Portal to create a solution that will gather data from patients and enable health providers to manage patient populations.
+Consumers of the Sensely Android SDK can leverage Sensely’s avatar, conversational platform, and Clinician Portal to create a solution that will gather data from patients and enable health providers to manage patient populations.
 
 ## Prerequisites
 - Android Studio 3.0+
